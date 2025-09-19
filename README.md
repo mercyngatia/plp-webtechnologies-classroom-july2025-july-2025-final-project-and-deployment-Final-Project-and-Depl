@@ -108,7 +108,7 @@ Here are some previews of the website:
 
 The website is deployed using **GitHub Pages / Netlify / Vercel**.  
 
-🔗 **Live URL:** [https://final-project-web-js.netlify.app/](https://yourusername.github.io/portfolio)  
+🔗 **Live URL:** [https://final-project-web-js.netlify.app/](https://final-project-web-js.netlify.app/)  
 *(Replace with your actual deployment link)*
 
 ---
