@@ -100,7 +100,7 @@ Here are some previews of the website:
 ### 📩 Contact Page
 ![Contact Page Screenshot](images/screenshots/contact.png)
 
-> *(Replace these placeholders with actual screenshots stored in `images/screenshots/` folder.)*
+> *(Sscreenshots stored in `images/screenshots/` folder.)*
 
 ---
 
@@ -109,7 +109,7 @@ Here are some previews of the website:
 The website is deployed using **GitHub Pages / Netlify / Vercel**.  
 
 🔗 **Live URL:** [https://final-project-web-js.netlify.app/](https://final-project-web-js.netlify.app/)  
-*(Replace with your actual deployment link)*
+
 
 ---
 
