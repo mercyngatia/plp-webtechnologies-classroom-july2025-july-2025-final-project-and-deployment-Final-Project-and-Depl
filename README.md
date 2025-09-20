@@ -86,30 +86,29 @@ project-root/
 Here are some previews of the website:
 
 ### 🏠 Home Page
-![Home Page Screenshot](images/screenshots/home.png)
+![Home Page Screenshot](img/portfolio.png)
 
 ### 👤 About Page
-![About Page Screenshot](images/screenshots/about.png)
+![About Page Screenshot](img/about.png)
 
 ### 🛠️ Skills Page
-![Skills Page Screenshot](images/screenshots/skills.png)
+![Skills Page Screenshot](img/skills.png)
 
 ### 💼 Projects Page
-![Projects Page Screenshot](images/screenshots/projects.png)
+![Projects Page Screenshot](img/project.png)
 
 ### 📩 Contact Page
-![Contact Page Screenshot](images/screenshots/contact.png)
+![Contact Page Screenshot](img/contact.png)
 
-> *(Replace these placeholders with actual screenshots stored in `images/screenshots/` folder.)*
 
 ---
 
 ## 🚀 Deployment
 
-The website is deployed using **GitHub Pages / Netlify / Vercel**.  
+The website is deployed using ** Netlify **.  
 
-🔗 **Live URL:** [https://final-project-web-js.netlify.app/](https://final-project-web-js.netlify.app/)  
-*(Replace with your actual deployment link)*
+🔗 **Live URL:** https://final-project-web-js.netlify.app/ 
+
 
 ---
 
