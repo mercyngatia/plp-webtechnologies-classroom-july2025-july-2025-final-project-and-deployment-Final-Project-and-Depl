@@ -100,6 +100,10 @@ Here are some previews of the website:
 ### 📩 Contact Page
 ![Contact Page Screenshot](img/contact.png)
 
+<<<<<<< HEAD
+=======
+> *(Sscreenshots stored in `images/screenshots/` folder.)*
+>>>>>>> 84c8319eaa10fa8da8599295f665cec5bc81dfd6
 
 ---
 
@@ -109,6 +113,11 @@ The website is deployed using ** Netlify **.
 
 🔗 **Live URL:** https://final-project-web-js.netlify.app/ 
 
+<<<<<<< HEAD
+=======
+🔗 **Live URL:** [https://final-project-web-js.netlify.app/](https://final-project-web-js.netlify.app/)  
+
+>>>>>>> 84c8319eaa10fa8da8599295f665cec5bc81dfd6
 
 ---
 
